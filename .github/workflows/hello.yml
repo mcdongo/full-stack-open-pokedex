@@ -17,5 +17,5 @@ jobs:
           date
       - name: list directory
         run : |
-          ls
+          ls -l
       
